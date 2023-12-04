@@ -1,2 +1,4 @@
 0
-SimpleGoal:Job,working in a medical field10,False
+SimpleGoal:Give a talk,Speak in sacrament meetings100,False
+EternalGoal:Study the scripture,study for 10 min,50
+ChecklistGoal:Attend the temple,Perforem a ordinance,50,500,3,0
